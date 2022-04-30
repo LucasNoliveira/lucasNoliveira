@@ -28,6 +28,7 @@ procura o github do "GitHub readme Stats"
 ##
 <div>
   <a href="https://github.com/LucasNoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNoliveira&count_private=true&show_icons=true&theme=algolia"/>
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNoliveira&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNoliveira&count_private=true&show_icons=true&bg_color=30,0844b4,d64242&title_color=fff&text_color=fff"/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNoliveira&bg_color=30,0844b4,d64242&title_color=fff&text_color=fff"/>
+ 
 </div>
