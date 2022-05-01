@@ -22,5 +22,6 @@
     
 ##
 ### Onde você pode me achar
-    //LinkedIn
 </div>
+  
+  <!-- LinkedIn -->
