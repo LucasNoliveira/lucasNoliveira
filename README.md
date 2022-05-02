@@ -24,4 +24,7 @@
 ### Onde você pode me achar
 </div>
   
-  <!-- LinkedIn -->
+  <!-- LinkedIn
+       Gmail
+-->
+ 
