@@ -22,7 +22,7 @@
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
 </div>
-  <h1 height="80px"> Onde você pode me achar </h1>  
+  <h1 height="40px"> Onde você pode me achar </h1>  
   <!-- LinkedIn
        Gmail
 -->
