@@ -20,9 +20,9 @@
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-##
 
-### Onde você pode me achar
+    
+###Onde você pode me achar
 </div>
   
   <!-- LinkedIn
