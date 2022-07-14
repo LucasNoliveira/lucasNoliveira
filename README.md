@@ -13,7 +13,7 @@
   <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNoliveira&bg_color=30,04002c,d64242&title_color=fff&text_color=fff"/>
  
 ##
-### Tecnologias que possuo alguma familiaridade
+### Tecnologias que possuo alguma familiaridade 👨‍💻
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,7 +22,7 @@
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
 </div>
-  <h1 height="40px"> Onde você pode me achar </h1>  
+  <h1 height="40px"> Onde você pode me achar ✉ </h1>  
   <a href="https://www.linkedin.com/in/lucas-oliveira-891955224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:lucasnoliveiraprof126@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
