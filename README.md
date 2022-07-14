@@ -13,7 +13,7 @@
   <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNoliveira&bg_color=30,04002c,d64242&title_color=fff&text_color=fff"/>
  
 ##
-### Tecnologias que possuo alguma familiaridade 👨‍💻
+### Tecnologias e ferramentas que possuo alguma familiaridade 👨‍💻
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
