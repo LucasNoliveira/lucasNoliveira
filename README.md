@@ -1,6 +1,6 @@
 ### Olá Mundo! 🦉
 
-- 💻 Atualmente estudando C# e Banco de Dados
+- 💻 Atualmente estudando tecnologias web e Banco de Dados
 - 👩‍💻 Cursando 3º semestre em Ciência da Computação
 - 🖥 Trabalho com suporte em TI, procuro oportunidades em desenvolvimento de software com o objetivo de aprender e ganhar experiência no ramo
 - 📱 Contate-me no email: lucasnoliveiraprof126@gmail.com
