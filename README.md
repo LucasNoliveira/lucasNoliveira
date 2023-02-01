@@ -2,6 +2,7 @@
 
 [![MasterHead](https://github.com/LucasNoliveira/lucasNoliveira/blob/main/header1.png)](https://github.com/LucasNoliveira/lucasNoliveira)
 
+
 - 💻 Atualmente estudando tecnologias web e Banco de Dados
 - 👩‍💻 Cursando 4º semestre em Ciência da Computação
 - 🖥 Trabalho com suporte em TI, procuro oportunidades em desenvolvimento de software com o objetivo de aprender e ganhar experiência no ramo
