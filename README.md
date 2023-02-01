@@ -1,6 +1,6 @@
 ### Olá Mundo! 🦉
 
-[![MasterHead](https://github.com/LucasNoliveira/lucasNoliveira/blob/main/header.png)](https://github.com/LucasNoliveira/lucasNoliveira)
+[![MasterHead](https://github.com/LucasNoliveira/lucasNoliveira/blob/main/header1.png)](https://github.com/LucasNoliveira/lucasNoliveira)
 
 - 💻 Atualmente estudando tecnologias web e Banco de Dados
 - 👩‍💻 Cursando 4º semestre em Ciência da Computação
