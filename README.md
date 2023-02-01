@@ -14,8 +14,8 @@
 <div>
   <a href="https://github.com/LucasNoliveira">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasNoliveira&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt= “” width="683em" height="value">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNoliveira&count_icons=true_private=true&theme=omni"/>
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNoliveira&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNoliveira&count_icons=true_private=true&theme=radical"/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNoliveira&theme=radical"/>
     
 
     
