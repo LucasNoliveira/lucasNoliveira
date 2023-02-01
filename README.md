@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNoliveira&count_icons=true_private=true&theme=omni"/>
   <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNoliveira&theme=omni"/>
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasNoliveira&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=LucasNoliveira&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt= “” width="680em" height="value">
     
 ##
 ### Principais tecnologias e ferramentas que possuo alguma familiaridade 👨‍💻
