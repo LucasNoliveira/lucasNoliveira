@@ -1,4 +1,4 @@
-### Olá Mundo! 🦉 ![](https://komarev.com/ghpvc/?username=LucasNoliveira)
+### Olá Mundo! 🦉 
 
 [![MasterHead](https://github.com/LucasNoliveira/lucasNoliveira/blob/main/header1.png)](https://github.com/LucasNoliveira/lucasNoliveira)
 
@@ -9,6 +9,7 @@
 - 📱 Contate-me no email: lucasnoliveiraprof126@gmail.com
 - ⚡ Fun fact: Gosto de música, aprender novas línguas e Star Wars
 
+![](https://komarev.com/ghpvc/?username=LucasNoliveira)
 ##
 <div>
   <a href="https://github.com/LucasNoliveira">
