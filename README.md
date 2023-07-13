@@ -6,8 +6,9 @@
 - 💻 Atualmente estudando tecnologias web e Banco de Dados
 - 👩‍💻 Cursando 5º semestre em Ciência da Computação
 - 🖥 Entusiasta da Tecnologia no âmbito geral, mas focado principalmente em desenvolvimento Front-End
-- 📱 Contate-me no email: lucasnoliveiraprof126@gmail.com
 - ⚡ Fun fact: Gosto de música, aprender novas línguas e Star Wars
+- 📱 Contate-me no email: lucasnoliveiraprof126@gmail.com
+
 
 ![](https://komarev.com/ghpvc/?username=LucasNoliveira)
 ##
