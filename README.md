@@ -4,8 +4,8 @@
 
 
 - 💻 Atualmente estudando tecnologias web e Banco de Dados
-- 👩‍💻 Cursando 4º semestre em Ciência da Computação
-- 🖥 Trabalho com suporte em TI, procuro oportunidades em desenvolvimento de software com o objetivo de aprender e ganhar experiência no ramo
+- 👩‍💻 Cursando 5º semestre em Ciência da Computação
+- 🖥 Entusiasta da Tecnologia no âmbito geral, mas focado principalmente em desenvolvimento Front-End
 - 📱 Contate-me no email: lucasnoliveiraprof126@gmail.com
 - ⚡ Fun fact: Gosto de música, aprender novas línguas e Star Wars
 
