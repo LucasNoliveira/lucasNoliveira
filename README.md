@@ -38,7 +38,7 @@
 - 📱 Contate-me no email: lucasnoliveira126@gmail.com
 
 
-![](https://komarev.com/ghpvc/?username=LucasNoliveira)
+
 ##
 <div>
   <a href="https://github.com/LucasNoliveira">
