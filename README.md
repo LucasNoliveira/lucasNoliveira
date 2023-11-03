@@ -39,7 +39,7 @@
   ##
 
 - 💻 Atualmente estudando tecnologias web e Banco de Dados
-- 🖥 Entusiasta da Tecnologia no âmbito geral, mas focado principalmente em desenvolvimento Front-End
+- 🖥 Entusiasta da Tecnologia no âmbito geral, mas possuo maior afinidade com desenvolvimento Web
 - ⚡ Fun fact: Gosto de música, aprender novas línguas e Star Wars
 - 📱 Contate-me no email: lucasnoliveira126@gmail.com
 
