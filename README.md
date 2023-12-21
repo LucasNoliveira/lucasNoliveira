@@ -39,10 +39,10 @@
 
   ##
 
-- 💻 Atualmente trabalhando com tecnologias web e Banco de Dados
-- 🖥 Entusiasta da Tecnologia no âmbito geral, mas possuo maior afinidade com desenvolvimento Web
-- ⚡ Fun fact: Gosto de música, aprender novas línguas e Star Wars
-- 📱 Contate-me no email: lucasnoliveira126@gmail.com
+- 💻 Currently working with web technologies and database
+- 🖥 Enthusiastic about technology in general, but I have a greater affinity for web development.
+- ⚡ Fun fact: I like music, learning new languages, and Star Wars
+- 📱 Contact me via email: lucasnoliveira126@gmail.com
 
 
 
