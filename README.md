@@ -1,4 +1,4 @@
-### Olá Mundo! 🦉 
+### Hello World! 🦉 
 
 [![MasterHead](https://github.com/LucasNoliveira/lucasNoliveira/blob/main/header1.png)](https://github.com/LucasNoliveira/lucasNoliveira)
 
