@@ -61,7 +61,7 @@
 </div>
 <div>
   <h2> Trophies 🏆 </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=lucasNoliveira&title=Commits,Followers,Repositories,Experience&theme=dracula" />
+<img src="https://github-profile-trophy.vercel.app/?username=lucasNoliveira&title=Commits,Followers,Repositories,Experience&theme=radical" />
   
 </div>
 
