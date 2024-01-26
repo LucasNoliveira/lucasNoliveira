@@ -57,7 +57,7 @@
   <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNoliveira&theme=radical"/>
 
 </div>
-  <h1 height="40px"> Onde você pode me achar 📩 </h1>  
+  <h1 height="40px"> Contact me 📩 </h1>  
  <a href = "https://wa.me/5511972571089"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/596201368134615099"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
  <a href = "mailto:lucasnoliveiraprof126@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
