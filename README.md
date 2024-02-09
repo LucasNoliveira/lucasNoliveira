@@ -28,7 +28,6 @@
  <!-- <img height="30em" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /> !-->
  <!-- <img height="30em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> !-->
  <!-- <img height="30em" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
- <img height="30em" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />  !-->
  <!-- <img height="30em" src="" /> !-->
   
 
