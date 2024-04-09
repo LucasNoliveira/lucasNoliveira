@@ -1,5 +1,6 @@
 ### Hello World! 🦉 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasnoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="lucasnoliveira" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasnoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="lucasnoliveira" /> </p> !-->
+<!-- <img src="https://count.getloli.com/get/@lucasNoliveira.github.readme?theme=rule34" /> !-->
 
 [![MasterHead](https://github.com/LucasNoliveira/lucasNoliveira/blob/main/header1.png)](https://github.com/LucasNoliveira/lucasNoliveira)
 
@@ -69,6 +70,7 @@
 <div>
   <h2> Trophies 🏆 </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=lucasNoliveira&title=Commits,Followers,Repositories,Experience&theme=radical" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=lucasNoliveira&theme=nord&column=7" > !-->
   
 </div>
 
