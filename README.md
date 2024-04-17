@@ -53,7 +53,7 @@
 
   ##
 
-- 💻 Currently working with React, Node, Django and some other Web Technologies.
+- 💻 Currently working with React, Node, Python/Django and some other Web Technologies.
 - 🖥 Enthusiastic about technology in general, but I have a greater affinity for web development.
 - ⚡ Fun fact: I like music, learning new languages, and Star Wars.
 - 📱 Contact me via email: lucasnoliveira126@gmail.com
