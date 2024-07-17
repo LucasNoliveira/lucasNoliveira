@@ -43,7 +43,7 @@
 
 - 💻 Currently working with React, Node, Python/Django, Docker, AWS and some other Web Technologies.
 - 🖥 Enthusiastic about technology in general, but I have a greater affinity for web development.
-- Plan to Learn: TypesScript, SOLID, Angular
+- 📚 Plan to Learn: TypesScript, SOLID, Angular
 - ⚡ Fun fact: I like music, learning new languages, and Star Wars.
 - 📱 Contact me via email: lucasnoliveira126@gmail.com
 
