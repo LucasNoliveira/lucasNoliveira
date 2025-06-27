@@ -8,12 +8,6 @@
 - ⚡ Fun fact: I like music, learning new languages, and Star Wars.
 - 📱 Contact me via email: lucasnoliveira126@gmail.com
 
-<div style="display: flex";>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasNoliveira&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasNoliveira&count_icons=true_private=true&theme=radical" alt="GitHub Stats"><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNoliveira&theme=radical" alt="Top Languages"><br />
-</div>
-
 ## Trophies 🏆
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lucasNoliveira&title=Commits,Followers,Repositories,Experience&theme=radical)
