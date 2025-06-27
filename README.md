@@ -3,7 +3,7 @@
 ![MasterHead](https://github.com/LucasNoliveira/lucasNoliveira/blob/main/header1.png)
 
 
-- 💻 Currently working with React, Node, Python/Django, Docker, AWS and some other Web Technologies.
+- 💻 Currently working with Python/Django, Docker, Google Cloud Platform and some other Web Technologies.
 - 🖥 Enthusiastic about technology in general, but I have a greater affinity for web development.
 - ⚡ Fun fact: I like music, learning new languages, and Star Wars.
 - 📱 Contact me via email: lucasnoliveira126@gmail.com
